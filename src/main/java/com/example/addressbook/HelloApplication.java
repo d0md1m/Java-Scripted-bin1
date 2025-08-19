@@ -6,7 +6,7 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 
 import java.io.IOException;
-
+// This is a comment on marcBranch
 public class HelloApplication extends Application {
     // Constants defining the window title and size
     public static final String TITLE = "Address Book";
